@@ -18,8 +18,8 @@ Hi, I'm **Sachin More** — an aspiring Data Analyst. This repo is a living reco
 ### Excel
 - [x] Practice Set 1 — Data Validation & Conditional Formatting
 - [x] Practice Set 2 — Sorting, Filtering, Text Functions
-- [x] Practice Set 3
-- [x] Practice Set 4
+- [x] Practice Set 3 — VLOOKUP & logical formulas
+- [x] Practice Set 4 — Pivot Tables, SUMIF family, Macros & more
 
 ### SQL
 - [x] Completed (hands-on queries & projects — uploading soon)
