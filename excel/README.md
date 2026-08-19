@@ -45,12 +45,6 @@ My Excel practice projects — each file demonstrates specific spreadsheet skill
   - Q12: Create a Macro to format the table (standardized layout)
   - Q13: Test the macro output
 
-## 🚀 Capstone Project
-
-### [Global Trade Analysis](global-trade-analysis/)
-- **Skills:** Data Cleaning, Formulas, Lookups (VLOOKUP, INDEX/MATCH), SUMIFS/AVERAGEIFS, Pivot Tables, Charts, Macros, Dashboard
-- End-to-end analysis of 500 global trade orders with an interactive performance dashboard.
-
 ## Tools Used
 - Microsoft Excel
 
