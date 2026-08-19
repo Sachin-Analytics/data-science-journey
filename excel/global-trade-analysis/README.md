@@ -10,6 +10,7 @@ Analyzed 500 global trade orders (2024–2025) across regions, product categorie
 
 | File | Purpose |
 |------|---------|
+| `Trade_Performance_Dashboard.xlsx` | 🎛️ Interactive dashboard (KPIs + 4 charts + filters) |
 | `Global_Trade_Dashboard.xlsx` | Full analysis workbook (solution) |
 | `data/Global_Trade_Data.xlsx` | 500 orders — sales, profit, shipping, ship mode |
 | `data/Product_Master.xlsx` | Product reference — category, supplier, origin country, unit cost |
@@ -28,6 +29,7 @@ Analyzed 500 global trade orders (2024–2025) across regions, product categorie
 - **Comparative Charts** — sales & profit visualizations
 - **Macros** — recorded macro for table formatting/automation
 - **Dashboard** — KPIs (total orders, sales, profit, avg margin), region & top-product views
+- **Interactive Dashboard (`Trade_Performance_Dashboard.xlsx`)** — KPI cards, Year & Region dropdown filters, monthly sales/profit trend line, sales by region & category, profit by product charts
 
 ## 📊 Key Insights
 
