@@ -20,6 +20,7 @@ Hi, I'm **Sachin More** — an aspiring Data Analyst. This repo is a living reco
 - [x] Practice Set 2 — Sorting, Filtering, Text Functions
 - [x] Practice Set 3 — VLOOKUP & logical formulas
 - [x] Practice Set 4 — Pivot Tables, SUMIF family, Macros & more
+- [x] Capstone: [Global Trade Analysis](excel/global-trade-analysis/) — cleaning, lookups, dashboards
 
 ### SQL
 - [x] Completed (hands-on queries & projects — uploading soon)
